@@ -1,0 +1,28 @@
+name: girlcook
+favicon: null
+layout_spectrum: 0.657629023771733
+typography_spectrum: 0.9815632414538413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5657123806886375
+  lightness: 0.919396621407941
+  saturation: 0.7179823685437441
+  rhythmicContrast: 0.28452359745278955
+purpose: []
