@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Amish Simplicity
-datePublished: '2016-05-26T01:25:32.519Z'
-dateModified: '2016-05-26T01:25:08.857Z'
+datePublished: '2016-05-26T01:30:54.343Z'
+dateModified: '2016-05-26T01:30:10.883Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-26-amish-simplicity.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: amish-simplicity/index.html
 _type: Article
 
