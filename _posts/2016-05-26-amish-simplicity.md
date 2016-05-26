@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Amish Simplicity
-datePublished: '2016-05-26T01:20:47.451Z'
-dateModified: '2016-05-26T01:19:36.539Z'
+datePublished: '2016-05-26T01:21:05.745Z'
+dateModified: '2016-05-26T01:20:50.607Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-26-amish-simplicity.md
