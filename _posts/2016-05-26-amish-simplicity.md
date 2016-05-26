@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Amish Simplicity
-datePublished: '2016-05-26T01:23:25.492Z'
-dateModified: '2016-05-26T01:23:04.225Z'
+datePublished: '2016-05-26T01:25:03.094Z'
+dateModified: '2016-05-26T01:24:15.332Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-26-amish-simplicity.md
@@ -21,7 +21,7 @@ _type: Article
 
 Amish Simplicity
 
-A simple yard with a garden filled with the start of the new season--big curled leaves iverdlowing. An Amish Mom was bent over the crops while her three children played, their dark blue and black clothes and bonnets hugging ruddy faces.
+A simple yard with a garden filled with the start of the new season--big curled leaves overflowing. An Amish Mom was bent over the crops while her three children played, their dark blue and black clothes and bonnets hugging ruddy faces.
 
 The littlest boy presented a bright yellow dandelion to my sister crumpled in his little fat fist and playfully running after her. They laughed with abandon. I hoped that this small tender exchange would carve his opinion of the strange visitors for the rest of his days.
 
