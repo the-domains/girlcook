@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Amish Simplicity
-datePublished: '2016-05-26T01:21:05.745Z'
-dateModified: '2016-05-26T01:20:50.607Z'
+datePublished: '2016-05-26T01:23:25.492Z'
+dateModified: '2016-05-26T01:23:04.225Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-26-amish-simplicity.md
@@ -25,4 +25,6 @@ A simple yard with a garden filled with the start of the new season--big curled 
 
 The littlest boy presented a bright yellow dandelion to my sister crumpled in his little fat fist and playfully running after her. They laughed with abandon. I hoped that this small tender exchange would carve his opinion of the strange visitors for the rest of his days.
 
-Before leaving we went to the garden where the Mom pulled giant leaves attached to long red stems---Rhubarb!!! Her oldest son pulled out a bone handled knife and quickly
+Before leaving we went to the garden where the Mom pulled giant leaves attached to long red stems---Rhubarb!!! Her oldest son pulled out a bone handled knife and quickly lopped off the poisonous leaves.
+
+We treated from the sunshine saying our goodbyes. What will we bake with this beautiful fresh bounty? Could the sweetness ever match our experience that day?
